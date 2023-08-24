@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qQH9PvwekiIB8QTWceMti0TPxidb72NiS4AAEC+q0itAOnMcjrktVp3TbEu3fqEaopC7d3HG3/Jnl3JQsX8Ig==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\ApparentTemparatureCalculator\\ApparentTemparatureCalculator\\ApparentTemparatureCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nemanja.kukulicic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
